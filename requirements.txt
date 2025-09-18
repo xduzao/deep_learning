@@ -1,0 +1,9 @@
+# Dependências do projeto Deep Learning
+tensorflow>=2.12
+scikit-learn
+pandas
+numpy
+matplotlib
+jupyter
+ipykernel
+plotly
